@@ -1,0 +1,15 @@
+/Users/markusau/codes and such/github/fileManager/bin/Debug/net5.0/fileManager.deps.json
+/Users/markusau/codes and such/github/fileManager/bin/Debug/net5.0/fileManager.runtimeconfig.json
+/Users/markusau/codes and such/github/fileManager/bin/Debug/net5.0/fileManager.runtimeconfig.dev.json
+/Users/markusau/codes and such/github/fileManager/bin/Debug/net5.0/fileManager.dll
+/Users/markusau/codes and such/github/fileManager/bin/Debug/net5.0/ref/fileManager.dll
+/Users/markusau/codes and such/github/fileManager/bin/Debug/net5.0/fileManager.pdb
+/Users/markusau/codes and such/github/fileManager/obj/Debug/net5.0/fileManager.csproj.AssemblyReference.cache
+/Users/markusau/codes and such/github/fileManager/obj/Debug/net5.0/fileManager.GeneratedMSBuildEditorConfig.editorconfig
+/Users/markusau/codes and such/github/fileManager/obj/Debug/net5.0/fileManager.AssemblyInfoInputs.cache
+/Users/markusau/codes and such/github/fileManager/obj/Debug/net5.0/fileManager.AssemblyInfo.cs
+/Users/markusau/codes and such/github/fileManager/obj/Debug/net5.0/fileManager.csproj.CoreCompileInputs.cache
+/Users/markusau/codes and such/github/fileManager/obj/Debug/net5.0/fileManager.dll
+/Users/markusau/codes and such/github/fileManager/obj/Debug/net5.0/ref/fileManager.dll
+/Users/markusau/codes and such/github/fileManager/obj/Debug/net5.0/fileManager.pdb
+/Users/markusau/codes and such/github/fileManager/obj/Debug/net5.0/fileManager.genruntimeconfig.cache

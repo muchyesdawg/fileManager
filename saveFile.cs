@@ -1,8 +1,8 @@
 using System;
 using System.IO;
-
-namespace fileManager{
+namespace fileManager
+{
     public class saveFile {
-        public string[] listOfActions = File.ReadAllLines("/actions.txt");
+        public string[] saveInfo = File.ReadAllLines("saves/saves.txt");
     }
 }
