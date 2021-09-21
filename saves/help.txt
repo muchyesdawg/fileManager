@@ -1,0 +1,6 @@
+makes a new project
+deletes a project
+opens a project
+edits the appearance of the console
+helps wow very descriptive i kno kthxbai(bonus points if you kno the refrence)
+tells you all the todos you have(doesn't create them)

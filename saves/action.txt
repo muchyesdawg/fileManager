@@ -1,0 +1,6 @@
+new
+delete
+open
+console
+help
+todos
