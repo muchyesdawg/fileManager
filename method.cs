@@ -38,5 +38,17 @@ namespace fileManager
             }
             return yesOrNo;
         }
+        public static string moreVersitileConcat(string firstText, string secondText){
+            string.Concat(firstText, secondText);
+            return firstText;
+        }
+        public static string moreThanOneConcat(string[] WhatToConcatNoteThatItWillConcatInOrderOfList){
+            String value = "";
+            for (int i = 0; i < WhatToConcatNoteThatItWillConcatInOrderOfList.Length; i++)
+            {
+                String.Concat(value, WhatToConcatNoteThatItWillConcatInOrderOfList[i]);
+            }
+            return value;
+        }
     }
 }
