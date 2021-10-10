@@ -13,3 +13,7 @@
 /Users/markusau/codes and such/github/fileManager/obj/Debug/net5.0/ref/fileManager.dll
 /Users/markusau/codes and such/github/fileManager/obj/Debug/net5.0/fileManager.pdb
 /Users/markusau/codes and such/github/fileManager/obj/Debug/net5.0/fileManager.genruntimeconfig.cache
+/Users/markusau/codes and such/github/fileManager/bin/Debug/net5.0/FluentEmail.Core.dll
+/Users/markusau/codes and such/github/fileManager/bin/Debug/net5.0/FluentMailer.dll
+/Users/markusau/codes and such/github/fileManager/bin/Debug/net5.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/markusau/codes and such/github/fileManager/obj/Debug/net5.0/fileManager.csproj.CopyComplete

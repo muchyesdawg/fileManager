@@ -1,8 +1,23 @@
 {
   "version": 2,
-  "dgSpecHash": "0uOpCw4NMq73pftpVrPi6BoKNFGDjSxEXc7ZA00dsZfAj6l7ERRSNnP82o2X9EItdBoylG7i9EVnNn+HnPLShQ==",
+  "dgSpecHash": "zCT6DIiM/serbUl0a7idomGQGA7L0j0btYZIHFew0AsqonnUELUcqLUhwLjtR9ZFWqVStiBqZ0IlYFTP2Xwfmg==",
   "success": true,
   "projectFilePath": "/Users/markusau/codes and such/github/fileManager/fileManager.csproj",
-  "expectedPackageFiles": [],
-  "logs": []
+  "expectedPackageFiles": [
+    "/Users/markusau/.nuget/packages/fluentemail.core/3.0.0/fluentemail.core.3.0.0.nupkg.sha512",
+    "/Users/markusau/.nuget/packages/fluentmailer/1.1.4/fluentmailer.1.1.4.nupkg.sha512",
+    "/Users/markusau/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/3.1.11/microsoft.extensions.dependencyinjection.abstractions.3.1.11.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'FluentMailer 1.1.4' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework 'net5.0'. This package may not be fully compatible with your project.",
+      "libraryId": "FluentMailer",
+      "targetGraphs": [
+        "net5.0"
+      ]
+    }
+  ]
 }

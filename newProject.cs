@@ -7,7 +7,7 @@ namespace fileManager
     {
         public static void createProject(){
             //variables and objects
-            saveFile saveFile = new saveFile();
+            storage saveFile = new storage();
             string projPath = saveFile.projSaves;
             string name;
             string path;
@@ -76,7 +76,7 @@ namespace fileManager
             
             File.Create(todoFile);//if i forget to give the argument to this variable the error is so long the screen can't even show it wow but thats just encouraging me to make it as long as that
             /*also you might be wondering 
-                heyy KID, why
+                heyy KID, why u makin variables so long
                 because for the most part i know i wont use it much so i try to make it as ridiculous as possible bcuz H U M O R
             */
         }

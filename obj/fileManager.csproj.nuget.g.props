@@ -15,4 +15,7 @@
   <PropertyGroup>
     <MSBuildAllProjects>$(MSBuildAllProjects);$(MSBuildThisFileFullPath)</MSBuildAllProjects>
   </PropertyGroup>
+  <PropertyGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
+    <PkgFluentMailer Condition=" '$(PkgFluentMailer)' == '' ">/Users/markusau/.nuget/packages/fluentmailer/1.1.4</PkgFluentMailer>
+  </PropertyGroup>
 </Project>

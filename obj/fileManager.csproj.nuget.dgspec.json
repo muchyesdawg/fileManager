@@ -37,6 +37,16 @@
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
+          "dependencies": {
+            "FluentEmail.Core": {
+              "target": "Package",
+              "version": "[3.0.0, )"
+            },
+            "FluentMailer": {
+              "target": "Package",
+              "version": "[1.1.4, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
