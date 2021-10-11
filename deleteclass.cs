@@ -24,7 +24,7 @@ namespace fileManager
             tempInt = howManySelections-howManyExtras;
             maxPages = tempInt/10;
             for(int i = 0; i<storage.projectNames.Length;i++){
-                selections[i] = storage.
+                selections[i] = storage
             }
 
             while (yesOrNo)
@@ -41,6 +41,7 @@ namespace fileManager
                 if (int.TryParse(keyStroke, out int yes))
                 {
                     //TODO:delete and ask if they want to do another one.
+
                 }
                 else if(keyStroke == "p"&& currentPage > 0){
                     currentPage--;
